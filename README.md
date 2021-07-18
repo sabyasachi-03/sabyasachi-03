@@ -1,5 +1,5 @@
 <h1 align="center">Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm Sabyasachi Samantasinghar</h1>
-- Hi I'm in 2nd yr MCA
+
 
 - 🌱 I’m currently learning **Python and Django**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sabyasachi-3a7b2b1a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabyasachi-3a7b2b1a9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sabyasachi-3a7b2b1a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabyasachi-3a7b2b1a9/" height="30" width="40" /></a>
 <a href="https://instagram.com/sabyasachi_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabyasachi_03" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sabyasachi samantasinghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sabyasachi samantasinghar" height="30" width="40" /></a>
 </p>
