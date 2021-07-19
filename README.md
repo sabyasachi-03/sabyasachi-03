@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/sabyasachi-03/sabyasachi-03/blob/dfb874b04c908f9aa78ec929897274f1aa2cad18/coder.gif" width="200px">
+</p>
+
 <h1 align="center">Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm Sabyasachi Samantasinghar</h1>
 
 
