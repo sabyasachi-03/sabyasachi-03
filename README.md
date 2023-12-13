@@ -5,7 +5,7 @@
 <h1 align="center">Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm Sabyasachi Samantasinghar</h1>
 
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Spring Boot, Angular, JPA, MySQL, Microservices**
 
 - 👯 I’m currently working on **Web Development**
 
